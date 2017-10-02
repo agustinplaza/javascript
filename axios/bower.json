@@ -1,0 +1,13 @@
+{
+  "name": "axios",
+  "authors": [
+    "agustinplaza <apa@googling.barcelona>"
+  ],
+  "description": "Javascript promise library",
+  "main": "**/*",
+  "keywords": [
+    "promises"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
