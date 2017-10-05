@@ -1,0 +1,13 @@
+{
+  "name": "cryptojs-aws",
+  "homepage": "https://github.com/agustinplaza/javascript_bower",
+  "authors": [
+    "agustinplaza <apa@googling.barcelona>"
+  ],
+  "description": "Javascript crypto library",
+  "main": "rollups/*.js",
+  "keywords": [
+    "Crypto"
+  ],
+  "license": "MIT"
+}
